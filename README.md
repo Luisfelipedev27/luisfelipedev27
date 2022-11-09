@@ -1,6 +1,7 @@
 ## Luis Felipe - Fullstack Developer
 
-<p> Sou Desenvolvedor de software, Fullstack e atuo nesse mundo tech há 2 anos, tendo experiência com Ruby on Rails, TDD / Rspec, Bootstrap, JQuery, PostgreSQL, AWS, P.O.O, Docker e tenho muita facilidade de trabalhar em equipe. Conheço o básico de ReactJs e Typescript. Sou muito bom para aprender novas tecnologias, quando requisitado </p>
+<p> Sou Desenvolvedor de software, Fullstack e atuo nesse mundo tech há 2 anos, tendo experiência com Ruby on Rails, TDD / Rspec, Bootstrap, JQuery, PostgreSQL, AWS, P.O.O, Docker e tenho muita facilidade de trabalhar em equipe. Conheço o básico de ReactJs e Typescript. Sou muito bom para aprender novas tecnologias, quando requisitado. </p>
+## 
 <div align="center">
   <a href="https://github.com/luisfelipedev27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipedev27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
