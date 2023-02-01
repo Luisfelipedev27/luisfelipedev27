@@ -1,4 +1,4 @@
-## Luis Felipe - Back-End Developer
+## Luis Felipe // Back-End Developer
 
 <p> I'm a software developer, Fullstack and I've been working in this tech world for 2 years, having experience with Ruby on Rails, TDD / Rspec, Bootstrap, JQuery, PostgreSQL, AWS, P.O.O, Docker and I'm very easy to work in a team. I know the basics of ReactJs and Typescript. I'm very good at learning new technologies when required. </p>
 <hr>
