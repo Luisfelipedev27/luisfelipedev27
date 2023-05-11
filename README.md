@@ -1,6 +1,8 @@
 ## // Back-End Developer
 
-<p> I'm a back-end Software Developer, and I've been working in this tech world for 2 years, having experience with Ruby on Rails, TDD / Rspec, Bootstrap, JQuery, PostgreSQL, AWS, O.O.P, Docker and I'm very easy to work in a team. I know the basics of ReactJs and Typescript.  </p>
+<p> Pleasure!
+My name is Luis Felipe, I'm a software developer and I've been working in this technological world for 2 years, having experience with Ruby on Rails, TDD/Rspec, Bootstrap, JQuery, PostgreSQL, AWS, P.O.O, Docker. Also, I really like working in a team.
+I know the basics of ReactJs and Typescript (I'm very good at learning new technologies when needed). I currently work as a backend software engineer at SmartFit </p>
 <hr>
 <div align="center">
   <a href="https://github.com/luisfelipedev27">
