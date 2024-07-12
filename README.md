@@ -1,4 +1,4 @@
-## // Software Engineer
+## // Backend Software Engineer
 
 <p> Pleasure!
 My name is Luis Felipe, I'm Software Engineer with strong experience using Ruby on Rails, TDD/Rspec, Bootstrap, JQuery, PostgreSQL, AWS, P.O.O, Docker.
